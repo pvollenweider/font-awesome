@@ -1,0 +1,17 @@
+<jnt = 'http://www.jahia.org/jahia/nt/1.0'>
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+<fant = 'http://fontawesome.io/jahia/nt/1.0'>
+<famix = 'http://fontawesome.io/jahia/mix/1.0'>
+[famix:component] > jmix:droppableContent, jmix:editorialContent mixin
+
+[famix:faIcon] mixin
+ - faIcon (string, choicelist[iconInitializer,resourceBundle])
+
+[fant:all] > jnt:content, famix:component
+
+[fant:displayIcon] > jnt:content, famix:component, famix:faIcon
+ - faLarger (string, choicelist[resourceBundle]) = 'default' autocreated < 'default','fa-lg','fa-2x','fa-3x','fa-4x','fa-5x'
+ - faFixedWidth (boolean) = false
+ - faAnimated (string, choicelist[resourceBundle]) = 'default' autocreated < 'default','fa-spin','fa-pulse'
+ - faRotatedFlipped (string, choicelist[resourceBundle]) = 'default' autocreated < 'default','fa-rotate-90','fa-rotate-180','fa-rotate-270','fa-flip-horizontal','fa-flip-vertical'
+
