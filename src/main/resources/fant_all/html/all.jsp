@@ -18,7 +18,7 @@
 
     <section class="hidden-print">
         <div class="stripe-ad">
-            <script src="https://cdn.fusionads.net/fusion.js?zoneid=1332&amp;serve=C6SDP2Y&amp;placement=fontawesome" id="_fusionads_js"></script><div id="fusionads"><span class="fusion-wrap"><a href="http://www.launchbit.com/taz/9533-6032-111/" class="fusion-img" target="_blank"><img src="https://launchbit.com/taz-i/6032-b145255f2c61722e6c31c7ce31bf0c71823fba4c-bsa.png" alt="" border="0" height="100" width="130" style="max-width:130px;"></a><a href="http://www.launchbit.com/taz/9533-6032-111/" class="fusion-text" target="_blank">News for Designers A daily collection of curated stories from around the web for web designers.</a></span><a href="http://carbonads.net/" target="_blank" class="fusion-poweredby">ads via Carbon</a><img src="https://www.launchbit.com/taz-pixel/9533-6032-111/" border="0" height="1" width="1" style="display: none;"></div>
+            <script src="https://cdn.fusionads.net/fusion.js?zoneid=1332&amp;serve=C6SDP2Y&amp;placement=fontawesome" id="_fusionads_js"></script><div id="fusionads"><span class="fusion-wrap"><a href="http://carbonads.com" class="fusion-img" target="_blank"><img src="https://assets.servedby-buysellads.com/p/manage/asset/id/15119" alt="" border="0" height="100" width="130" style="max-width:130px;"></a><a href="http://carbonads.com" class="fusion-text" target="_blank">Carbon Ads - a circle you want to be part of. Grab a spot.</a></span><a href="http://carbonads.net/" target="_blank" class="fusion-poweredby">ads via Carbon</a></div>
 
 
             <p class="lead">
@@ -29,7 +29,7 @@
     </section>
 
 
-    <h2 class="page-header">Every Font Awesome 4.4.0 Icon, CSS Class, &amp; Unicode</h2>
+    <h2 class="page-header">Every Font Awesome 4.5.0 Icon, CSS Class, &amp; Unicode</h2>
 
     <div class="row">
 
@@ -633,6 +633,22 @@
             fa-black-tie
 
             <span class="text-muted">[&amp;#xf27e;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-bluetooth
+
+            <span class="text-muted">[&amp;#xf293;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-bluetooth-b
+
+            <span class="text-muted">[&amp;#xf294;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -1260,6 +1276,14 @@
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-codiepie
+
+            <span class="text-muted">[&amp;#xf284;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
 
             <i class="fa fa-fw"></i>
             fa-coffee
@@ -1401,6 +1425,14 @@
             fa-credit-card
 
             <span class="text-muted">[&amp;#xf09d;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-credit-card-alt
+
+            <span class="text-muted">[&amp;#xf283;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -1577,6 +1609,14 @@
             fa-drupal
 
             <span class="text-muted">[&amp;#xf1a9;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-edge
+
+            <span class="text-muted">[&amp;#xf282;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -2132,6 +2172,14 @@
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-fort-awesome
+
+            <span class="text-muted">[&amp;#xf286;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
             <small class="text-muted pull-right">4.3</small>
             <i class="fa fa-fw"></i>
             fa-forumbee
@@ -2497,6 +2545,14 @@
             fa-hand-stop-o
             <span class="text-muted">(alias)</span>
             <span class="text-muted">[&amp;#xf256;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-hashtag
+
+            <span class="text-muted">[&amp;#xf292;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -3292,6 +3348,14 @@
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-mixcloud
+
+            <span class="text-muted">[&amp;#xf289;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
 
             <i class="fa fa-fw"></i>
             fa-mobile
@@ -3305,6 +3369,14 @@
             fa-mobile-phone
             <span class="text-muted">(alias)</span>
             <span class="text-muted">[&amp;#xf10b;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-modx
+
+            <span class="text-muted">[&amp;#xf285;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -3516,6 +3588,22 @@
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-pause-circle
+
+            <span class="text-muted">[&amp;#xf28b;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-pause-circle-o
+
+            <span class="text-muted">[&amp;#xf28c;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
             <small class="text-muted pull-right">4.1</small>
             <i class="fa fa-fw"></i>
             fa-paw
@@ -3553,6 +3641,14 @@
             fa-pencil-square-o
 
             <span class="text-muted">[&amp;#xf044;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-percent
+
+            <span class="text-muted">[&amp;#xf295;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -3724,6 +3820,14 @@
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-product-hunt
+
+            <span class="text-muted">[&amp;#xf288;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
 
             <i class="fa fa-fw"></i>
             fa-puzzle-piece
@@ -3817,6 +3921,14 @@
             fa-reddit
 
             <span class="text-muted">[&amp;#xf1a1;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-reddit-alien
+
+            <span class="text-muted">[&amp;#xf281;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -4012,6 +4124,14 @@
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-scribd
+
+            <span class="text-muted">[&amp;#xf28a;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
 
             <i class="fa fa-fw"></i>
             fa-search
@@ -4145,6 +4265,22 @@
             fa-shirtsinbulk
 
             <span class="text-muted">[&amp;#xf214;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-shopping-bag
+
+            <span class="text-muted">[&amp;#xf290;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-shopping-basket
+
+            <span class="text-muted">[&amp;#xf291;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -4521,6 +4657,22 @@
             fa-stop
 
             <span class="text-muted">[&amp;#xf04d;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-stop-circle
+
+            <span class="text-muted">[&amp;#xf28d;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-stop-circle-o
+
+            <span class="text-muted">[&amp;#xf28e;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
@@ -5081,6 +5233,14 @@
             fa-upload
 
             <span class="text-muted">[&amp;#xf093;]</span>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-lg-3">
+            <small class="text-muted pull-right">4.5</small>
+            <i class="fa fa-fw"></i>
+            fa-usb
+
+            <span class="text-muted">[&amp;#xf287;]</span>
         </div>
 
         <div class="col-md-4 col-sm-6 col-lg-3">
